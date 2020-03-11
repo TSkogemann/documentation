@@ -21,3 +21,8 @@ When an user is clicking the url, the following steps will happen:
 3) Check if user has access to the application, else give user access
 
 4) Redirect to application landing page
+
+
+# Warning 
+
+This link is a direct invite to your app. Everyone with this key will be able to create a user for your NStack application. So be carefull who you send this out to.
