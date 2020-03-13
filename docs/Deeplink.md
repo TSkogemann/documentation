@@ -14,7 +14,9 @@ The url needed looks like this
 
 When an user is clicking the url, the following steps will happen:
 
-1) Check if user is logged, else ask them to login
+1) Check if user is logged, else ask them to login or create an account.
+
+**If the user creates an account that will automatically be assigned given the permission level of owner. It is very important that you do not expose the masterkey or the full link as anyone will be able to login to your application using it** 
 
 2) Prompt user that they are about to login to the specific app
 
